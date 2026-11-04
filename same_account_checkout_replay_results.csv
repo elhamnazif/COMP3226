@@ -1,0 +1,4 @@
+request_number,status_code,response_time_ms,order_confirmation,response_body,timestamp
+1,200,240.78,5d94-508ea927bb0868cf,"{""orderConfirmation"":""5d94-508ea927bb0868cf""}",2026-11-04T14:29:04.977812
+2,200,244.5,5d94-6f38a390f2e793b7,"{""orderConfirmation"":""5d94-6f38a390f2e793b7""}",2026-11-04T14:29:04.977812
+3,200,246.35,5d94-f649c0679487cd34,"{""orderConfirmation"":""5d94-f649c0679487cd34""}",2026-11-04T14:29:04.989444
