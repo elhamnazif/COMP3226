@@ -1,0 +1,2 @@
+utc,attempt,test_account,cart_quantity,checkout_url,result,elapsed_seconds,detail
+2026-11-24T07:11:57.404779+00:00,1,abandonment-20261124t071142-c9d42d@example.com,2,http://localhost:3000/#/address/select,ABANDONED_AT_ADDRESS_SELECTION,9.188,

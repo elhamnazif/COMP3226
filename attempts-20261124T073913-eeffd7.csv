@@ -1,0 +1,11 @@
+utc,attempt,test_account,cart_quantity,checkout_url,result,elapsed_seconds,detail
+2026-11-24T07:39:24.743327+00:00,1,abandonment-20261124t073913-eeffd7@example.com,2,http://127.0.0.1:3000/#/address/select,ABANDONED_AT_ADDRESS_SELECTION,6.141,
+2026-11-24T07:39:35.900412+00:00,2,abandonment-20261124t073913-eeffd7@example.com,2,http://127.0.0.1:3000/#/address/select,ABANDONED_AT_ADDRESS_SELECTION,2.953,
+2026-11-24T07:39:43.851325+00:00,3,abandonment-20261124t073913-eeffd7@example.com,2,http://127.0.0.1:3000/#/address/select,ABANDONED_AT_ADDRESS_SELECTION,2.907,
+2026-11-24T07:39:51.773526+00:00,4,abandonment-20261124t073913-eeffd7@example.com,2,http://127.0.0.1:3000/#/address/select,ABANDONED_AT_ADDRESS_SELECTION,2.953,
+2026-11-24T07:39:59.736152+00:00,5,abandonment-20261124t073913-eeffd7@example.com,2,http://127.0.0.1:3000/#/address/select,ABANDONED_AT_ADDRESS_SELECTION,2.812,
+2026-11-24T07:40:07.572299+00:00,6,abandonment-20261124t073913-eeffd7@example.com,2,http://127.0.0.1:3000/#/address/select,ABANDONED_AT_ADDRESS_SELECTION,2.891,
+2026-11-24T07:40:15.466313+00:00,7,abandonment-20261124t073913-eeffd7@example.com,2,http://127.0.0.1:3000/#/address/select,ABANDONED_AT_ADDRESS_SELECTION,2.734,
+2026-11-24T07:40:23.198609+00:00,8,abandonment-20261124t073913-eeffd7@example.com,2,http://127.0.0.1:3000/#/address/select,ABANDONED_AT_ADDRESS_SELECTION,2.703,
+2026-11-24T07:40:30.907561+00:00,9,abandonment-20261124t073913-eeffd7@example.com,2,http://127.0.0.1:3000/#/address/select,ABANDONED_AT_ADDRESS_SELECTION,2.765,
+2026-11-24T07:40:38.687633+00:00,10,abandonment-20261124t073913-eeffd7@example.com,2,http://127.0.0.1:3000/#/address/select,ABANDONED_AT_ADDRESS_SELECTION,2.844,

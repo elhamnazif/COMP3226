@@ -1,0 +1,3 @@
+utc,attempt,test_account,cart_quantity,checkout_url,result,elapsed_seconds,detail
+2026-11-24T07:54:21.499648+00:00,1,abandonment-20261124t075340-f1379f@example.com,4,http://127.0.0.1:3000/#/address/select,ABANDONED_AT_ADDRESS_SELECTION,15.562,
+2026-11-24T07:54:42.083271+00:00,2,abandonment-20261124t075340-f1379f@example.com,4,http://127.0.0.1:3000/#/address/select,ABANDONED_AT_ADDRESS_SELECTION,12.406,
