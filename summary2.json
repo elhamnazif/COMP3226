@@ -1,0 +1,24 @@
+{
+  "bot_version": "1.0",
+  "base_url": "http://127.0.0.1:3000",
+  "configured_runs": 10,
+  "attempts_recorded": 10,
+  "confirmed_orders": 10,
+  "verified_orders": 10,
+  "order_ids": [
+    "312d-b26077a810e5ba8d",
+    "312d-b4a722c2b1100b33",
+    "312d-531d1104dd07efa4",
+    "312d-47791bf0f258992c",
+    "312d-c867cfe801d34e17",
+    "312d-f28a2ca398d03361",
+    "312d-020f4f660712b2ee",
+    "312d-62369283118c9c53",
+    "312d-990da05faad98241",
+    "312d-bdff8b45a38864f3"
+  ],
+  "verified_units": 20,
+  "script_elapsed_seconds": 98.761,
+  "mean_verified_attempt_seconds": 5.19,
+  "mean_checkout_response_ms": 1307.959
+}

@@ -1,0 +1,2 @@
+utc,attempt,test_account,basket_id,product_ids,cart_quantity,checkout_http_status,checkout_elapsed_ms,order_confirmation,result,basket_empty_after,stock_before,stock_after,elapsed_seconds,detail
+2026-11-24T08:47:07.399713+00:00,1,api-buyer-3d3eff090fb20f95@example.com,12,"25,52",2,200,1147.744,c8c9-55ec5c6fe7999c89,ORDER_VERIFIED,True,"{""25"": 97, ""52"": 96}","{""25"": 96, ""52"": 95}",2.691,

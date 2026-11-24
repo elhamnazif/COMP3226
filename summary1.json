@@ -1,0 +1,15 @@
+{
+  "bot_version": "1.0",
+  "base_url": "http://127.0.0.1:3000",
+  "configured_runs": 1,
+  "attempts_recorded": 1,
+  "confirmed_orders": 1,
+  "verified_orders": 1,
+  "order_ids": [
+    "c8c9-55ec5c6fe7999c89"
+  ],
+  "verified_units": 2,
+  "script_elapsed_seconds": 3.859,
+  "mean_verified_attempt_seconds": 2.691,
+  "mean_checkout_response_ms": 1147.744
+}
