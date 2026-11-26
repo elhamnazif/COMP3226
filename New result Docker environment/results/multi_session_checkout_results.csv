@@ -1,0 +1,7 @@
+timestamp,session,basket_id,product_id,action,status_code,response_ms,order_confirmation,response_body
+2026-11-26T14:22:18.340117,Session-3,8,42,ADD PRODUCT,200,70.61,,"{""status"":""success"",""data"":{""id"":27,""ProductId"":42,""BasketId"":""8"",""quantity"":1,""updatedAt"":""2026-11-26T06:22:18.323Z"",""createdAt"":""2026-11-26T06:22:18.323Z""}}"
+2026-11-26T14:22:18.345219,Session-1,6,42,ADD PRODUCT,200,78.79,,"{""status"":""success"",""data"":{""id"":28,""ProductId"":42,""BasketId"":""6"",""quantity"":1,""updatedAt"":""2026-11-26T06:22:18.330Z"",""createdAt"":""2026-11-26T06:22:18.330Z""}}"
+2026-11-26T14:22:18.356190,Session-2,7,42,ADD PRODUCT,200,86.11,,"{""status"":""success"",""data"":{""id"":29,""ProductId"":42,""BasketId"":""7"",""quantity"":1,""updatedAt"":""2026-11-26T06:22:18.340Z"",""createdAt"":""2026-11-26T06:22:18.340Z""}}"
+2026-11-26T14:22:18.674025,Session-3,8,42,CHECKOUT,200,319.92,287b-bb44a851e1de3bbf,"{""orderConfirmation"":""287b-bb44a851e1de3bbf""}"
+2026-11-26T14:22:18.689196,Session-2,7,42,CHECKOUT,200,334.99,5c3b-88d81b355cbddb57,"{""orderConfirmation"":""5c3b-88d81b355cbddb57""}"
+2026-11-26T14:22:18.704497,Session-1,6,42,CHECKOUT,200,347.81,5d94-4e4ae7a0d981e571,"{""orderConfirmation"":""5d94-4e4ae7a0d981e571""}"

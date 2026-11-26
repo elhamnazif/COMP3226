@@ -1,0 +1,4 @@
+timestamp,session,basket_id,product_id,action,status_code,response_ms,response_body
+2026-11-04T13:17:46.969191,Session-1,6,42,ADD PRODUCT,200,56.44,"{""status"":""success"",""data"":{""id"":14,""ProductId"":42,""BasketId"":""6"",""quantity"":1,""updatedAt"":""2026-11-04T05:17:46.959Z"",""createdAt"":""2026-11-04T05:17:46.959Z""}}"
+2026-11-04T13:17:46.969191,Session-3,7,42,ADD PRODUCT,200,66.69,"{""status"":""success"",""data"":{""id"":15,""ProductId"":42,""BasketId"":""7"",""quantity"":1,""updatedAt"":""2026-11-04T05:17:46.960Z"",""createdAt"":""2026-11-04T05:17:46.960Z""}}"
+2026-11-04T13:17:46.985112,Session-2,8,42,ADD PRODUCT,200,75.03,"{""status"":""success"",""data"":{""id"":16,""ProductId"":42,""BasketId"":""8"",""quantity"":1,""updatedAt"":""2026-11-04T05:17:46.961Z"",""createdAt"":""2026-11-04T05:17:46.961Z""}}"
